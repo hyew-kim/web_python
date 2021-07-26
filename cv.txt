@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+      <title>Hyewkim's CV</title>
+      <style>
+      h1 {color: blue;}
+      p {color: blue;}
+      table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+  }
+  th {
+    text-align: left;
+  }
+      </style>
+  </head>
+  <body>
+  <h1 style="text-align: center;">Kim Hyewon</h1>
+  <p style="text-align: center;">Phone: (+82)10-8569-2758</p>
+  <p style="text-align: center;">Email: gpdnjs861@naver.com</p>
+  <br>
+  <br>
+  <hr>
+  <ul>
+      <li> Education</li>
+      <br>
+      <table style="width:100%">
+          <tr>
+          <th>Year</th>
+          <th>Description</th>
+          </tr>
+          <tr>
+          <td>2021-5 ~</td>
+          <td>42Seoul</td>
+          </tr>
+          <tr>
+          <td>2016-3 ~ 2020-2</td>
+          <td style="border:5px solid #424242">Bachelor Degree of Chemical Engineering, Changwon University</td>
+      </table>
+  </ul>
+  <br>
+  <hr>
+  <ul>
+      <li> Skill</li>
+      <br>
+      <ol>
+          <li> programing: C, C++</li>
+      </ol>
+  </ul>
+  <br>
+  <hr>
+  <ul>
+      <li> Carrer</li>
+      <br>
+      <ol>
+          <li> Front-end programmer</li>
+          <li> Full stack programer </li>
+      </ol>
+  </ul>
+  </body>
+  </html>
